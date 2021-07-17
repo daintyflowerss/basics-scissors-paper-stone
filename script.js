@@ -1,5 +1,5 @@
 var main = function (input) {
-  // randomly chooses scissors, paper or stone
+  /// randomly chooses scissors, paper or stone
   var useroption =input;
   var option1 = "scissors";
   var option2 = "paper";
